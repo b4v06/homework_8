@@ -368,6 +368,18 @@ a {
     font-weight: 700;
 }
 
+.section-4__button-shadow {
+    position: relative;
+    left: 386px;
+    bottom: 60px;
+    width: 127.383px;
+    height: 45px;
+    border-radius: 10px;
+    background: rgba(245, 56, 56, 0.35);
+    filter: blur(27px);
+    z-index: 15;
+}
+
 /* END SECTION 4 */
 
 /* SECTION 5 */

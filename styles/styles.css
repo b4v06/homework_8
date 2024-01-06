@@ -1,6 +1,6 @@
 .background {
     width: 100%;
-    height: 3184px;
+    height: 3244px;
     background: linear-gradient(180deg, #F8F8F8 -45.04%, rgba(248, 248, 248, 0.00) 88.56%);
     position: relative;
     z-index: 0;
@@ -708,3 +708,5 @@ a {
 
 
 /* End Footer styles */
+
+/* The End */
